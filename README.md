@@ -1,18 +1,7 @@
-# ✨블로그 검색 서비스 리펙토링 
+# ✨블로그 검색 서비스
 ### Description
-이웃집 repository 인 blog_search_devtel를 리펙토링 해보자
+검색어로 카카오와, 네이버 블로그를 검색해보자
 
-
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 
 ## 개발환경
